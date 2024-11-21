@@ -1,6 +1,6 @@
 # Welcome to my README!
 
-My name is **Freddy Mcloughlan**. I'm a Computer/Network Engineering & Computer Science student in Australia. I love working with hardware and software creating electronics and fun making cool things.
+My name is **Freddy Mcloughlan**. I'm a Computer/Network Engineering & Computer Science student in Australia. I love working with hardware and software; creating electronics and making cool things.
 
 Please check out my Linkedin if you would like to get in contact!
 
