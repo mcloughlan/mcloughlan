@@ -43,7 +43,9 @@ And my main languages are
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sandwich1699975&show_icons=true&theme=gotham%22%20alt=%22Sandwich1699975" alt="stats"/>
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=sandwich1699975&count_private=true&show_icons=true&theme=dark&hide_border=true)
+[![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandwich1699975&theme=dark&hide_border=true&layout=compact&hide=html,CSS,PowerShell&langs_count=9)](https://davidpine.net)
+
 
 <!---
 Sandwich1699975/Sandwich1699975 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
