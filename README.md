@@ -1,5 +1,12 @@
 # Welcome to my README!
 
+
+<!---
+
+NOTE TO SELF. Inline style does not work on github. If you want it you'll have to rasturise it as an image or vectorise it or something
+
+--->
+
 My name is **Freddy Mcloughlan**. I'm a Computer/Network Engineering & Computer Science student in Australia. I love working with hardware and software; creating electronics and making cool things.
 
 Please check out my Linkedin if you would like to get in contact!
@@ -42,9 +49,17 @@ And my main languages are
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+<hr>
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=sandwich1699975&count_private=true&show_icons=true&theme=dark&hide_border=true)
-[![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandwich1699975&theme=dark&hide_border=true&layout=compact&hide=html,CSS,PowerShell&langs_count=9)](https://davidpine.net)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandwich1699975&count_private=true&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandwich1699975&theme=dark&hide_border=true&layout=compact&hide=html,CSS,PowerShell&langs_count=9"  />
+</div>
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/l_tQP6gd9AYAAAAd/hbo-watching.gif" />
+</div>
+
 
 
 <!---
