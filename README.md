@@ -52,8 +52,8 @@ And my main languages are
 <hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandwich1699975&count_private=true&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandwich1699975&theme=dark&hide_border=true&layout=compact&hide=html,CSS,PowerShell&langs_count=9"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mcloughlan&count_private=true&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcloughlan&theme=dark&hide_border=true&layout=compact&hide=html,CSS,PowerShell&langs_count=9"  />
 </div>
 
 <div align="center">
@@ -63,6 +63,6 @@ And my main languages are
 
 
 <!---
-Sandwich1699975/Sandwich1699975 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mcloughlan/mcloughlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
