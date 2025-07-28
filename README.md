@@ -1,15 +1,16 @@
-# Welcome to my README!
-
-
 <!---
 
-NOTE TO SELF. Inline style does not work on github. If you want it you'll have to rasturise it as an image or vectorise it or something
+NOTE TO SELF. Inline html style does not work on github. If you want it you'll have to rasturise it as an image or vectorise it or something
 
 --->
 
 <table>
   <tr>
     <td>
+      <a href="https://mcloughlan.com">
+        <img src="https://raw.githubusercontent.com/mcloughlan/personal_site/refs/heads/main/images/favicon.png" width="30" alt="Favicon">
+      </a>
+      <br>
       My name is <strong>Freddy Mcloughlan</strong>.
       <br>
       I'm a Computer/Network Engineering & Computer Science student from Australia.
@@ -18,7 +19,10 @@ NOTE TO SELF. Inline style does not work on github. If you want it you'll have t
       I love working with hardware and software, creating electronics and making cool things.
       <br>
       <br>
-      Please check out my Linkedin if you would like to get in contact!
+      I have worked on tons of cool software projects and I occasionaly do work in electronics and firmware design.
+      <br>
+      <br>
+      Please check out my <a href="https://mcloughlan.com">website</a> to see my projects and checkout my <a href="https://www.linkedin.com/in/freddy-mcloughlan/">Linkedin</a> if you would like to get in contact!
       <br>
       <hr>
       
@@ -33,9 +37,7 @@ NOTE TO SELF. Inline style does not work on github. If you want it you'll have t
   
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  
-  Feel free to check out my pinned repositories for more information!
-    </td>
+      </td>
     <td>
       <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=mcloughlan&count_private=true&show_icons=true&theme=dark&hide_border=true" />
