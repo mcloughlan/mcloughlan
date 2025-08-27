@@ -8,7 +8,7 @@ NOTE TO SELF. Inline html style does not work on github. If you want it you'll h
   <tr>
     <td>
       <a href="https://mcloughlan.com">
-        <img src="https://raw.githubusercontent.com/mcloughlan/personal_site/refs/heads/main/images/favicon.png" width="30" alt="Favicon">
+        <img src="https://raw.githubusercontent.com/mcloughlan/personal-site/refs/heads/main/assets/images/favicon.png" width="30" alt="Favicon">
       </a>
       <br>
       My name is <strong>Freddy Mcloughlan</strong>.
