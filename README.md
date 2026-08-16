@@ -11,15 +11,15 @@ NOTE TO SELF. Inline html style does not work on github. If you want it you'll h
         <img src="https://raw.githubusercontent.com/mcloughlan/personal-site/refs/heads/main/assets/images/favicon.png" width="30" alt="Favicon">
       </a>
       <br>
-      My name is <strong>Freddy Mcloughlan</strong>.
+      My name's <strong>Fred</strong>,
       <br>
-      I'm a Computer/Network Engineering & Computer Science student from Australia.
-      <br>
-      <br>
-      I love working with hardware and software, creating electronics and making cool things.
+      I'm a Computer/Network Engineering & Computer Science student from Australia. I've made bespoke irrigation water monitoring PCBs and firmware, musical flamethrowers, rocket launch systems and interned at Google, working on Google Maps Android. 
       <br>
       <br>
-      I have worked on tons of cool software projects and I occasionaly do work in electronics and firmware design.
+      I love working with hardware and software, creating electronics and making cool things. Rockets are super fkn cool
+      <br>
+      <br>
+      <i>Use AI as a learning tool. That does not include getting it to write your code for you. You won't learn anything!</i>
       <br>
       <br>
       Please check out my <a href="https://mcloughlan.com">website</a> to see my projects and checkout my <a href="https://www.linkedin.com/in/freddy-mcloughlan/">Linkedin</a> if you would like to get in contact!
@@ -40,7 +40,6 @@ NOTE TO SELF. Inline html style does not work on github. If you want it you'll h
       </td>
     <td>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=mcloughlan&count_private=true&show_icons=true&theme=dark&hide_border=true" />
         <img src="https://media1.tenor.com/m/l_tQP6gd9AYAAAAd/hbo-watching.gif">
       </div>
     </td>
