@@ -21,26 +21,19 @@ NOTE TO SELF. Inline html style does not work on github. If you want it you'll h
       <br>
       <i>Use AI as a learning tool. That does not include getting it to write your code for you. You won't learn anything!</i>
       <br>
+       <!---
+  https://github.com/Ileriayo/markdown-badges
+  Your favourite Gifs are noted in Tenor and Giphy accounts
+  --->
       <br>
       Please check out my <a href="https://mcloughlan.com">website</a> to see my projects and checkout my <a href="https://www.linkedin.com/in/freddy-mcloughlan/">Linkedin</a> if you would like to get in contact!
-      <br>
-      <hr>
-      
-  <!---
-  https://github.com/Ileriayo/markdown-badges
-
-
-  https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhwMTV5amZmM2ppeWVjNHRleWVkZnZ0bTJzbm5namR2bGNzeWMzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2463mSK5q2P3qLnoDY/giphy.gif
-  --->
-  
-  My main languages are
-  
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+      My main languages are C++ and Python. Resume is available upon request
       </td>
     <td>
       <div align="center">
-        <img src="https://media1.tenor.com/m/l_tQP6gd9AYAAAAd/hbo-watching.gif">
+        <img width=400 src="https://media1.tenor.com/m/l_tQP6gd9AYAAAAd/hbo-watching.gif">
+        <br>
+        <img width=400 src="https://media1.tenor.com/m/bucDVKCoIKAAAAAC/swordfish-hack.gif">
       </div>
     </td>
   </tr>
